@@ -1,1 +1,25 @@
 /* add home page styles here */
+header {
+    display: flex;
+    width: 100%;
+    height: 100px;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+}
+
+main {
+    width: 100%;
+    height: 80%;
+}
+
+label img {
+    width: 100px;
+    height: 100px;
+}
+
+
